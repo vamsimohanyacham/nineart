@@ -1,0 +1,210 @@
+.ha {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-left: 90px;
+  margin-right: 147px;
+}
+td {
+  font-size: 12px;
+}
+.aab {
+  background-color: gray;
+  height: 90px;
+  padding: 10px;
+}
+.lastk {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nh1 {
+  margin-left: 27px;
+  margin-top: 20px;
+}
+.nh3 {
+  margin-left: 12px;
+}
+.nh2 {
+  margin-left: 7px;
+}
+.nm5 {
+  margin-left: 16px;
+}
+.nm1 {
+  margin-left: 32px;
+}
+.nm2 {
+  margin-left: 23px;
+}
+.nm3 {
+  margin-left: 32px;
+}
+.nm4 {
+  margin-left: 50px;
+}
+label {
+  font-weight: bold;
+}
+.mrh {
+  margin-left: 77px;
+}
+.nbm {
+  border: 1px solid lightblue;
+  padding: 20px;
+  margin-left: 130px;
+}
+.nb {
+  border: 2px solid lightblue;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 30px;
+}
+.nmr {
+  margin-left: 550px;
+  margin-top: -25px;
+  color: blue;
+}
+.bi {
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  padding: 5px;
+  margin-left: 20px;
+}
+.nd {
+  display: flex;
+  flex-direction: column;
+}
+.ndr {
+  display: flex;
+  flex-direction: row;
+}
+.sc {
+  width: 250px;
+  margin-left: 20px;
+}
+.scc {
+  width: 100px;
+}
+.na {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  color: black;
+}
+.las {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 30px;
+}
+
+.aaaa {
+  display: flex;
+  flex-direction: row;
+}
+.ins {
+  border-right: 2px solid white;
+  margin-left: 20px;
+  height: 20px;
+  padding-right: 20px;
+  color: white;
+}
+.inss {
+  margin-left: 20px;
+  color: white;
+}
+.tee {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 90px;
+}
+.custom-hr {
+  border: none;
+  height: 20px;
+  background-color: #333; /* Customize the color as needed */
+}
+.spaced-table {
+  border-collapse: separate;
+  border-spacing: 0 5px; /* Adjust the space between rows as needed */
+}
+.pl {
+  margin-right: 10px;
+}
+.slider-container {
+  background-color: lightcoral;
+  margin-top: 20px;
+  color: white;
+  height: 60px;
+  padding: 20px;
+  width: 100px;
+  margin-right: 140px;
+}
+.vv {
+  font-weight: bold;
+  font-size: 20px;
+  width: 60px;
+}
+.spaced-table th {
+  padding: 20px; /* Adjust the space between rows as needed */
+  background-color: lightgray;
+}
+.small-head {
+  font-size: 12px; /* Adjust the font size of the table head as needed */
+}
+.te {
+  display: flex;
+  flex-direction: row;
+}
+.hve {
+  margin-top: 30px;
+  margin-left: 90px;
+  margin-right: 147px;
+}
+
+.mr {
+  margin-left: 90px;
+}
+.spaced-table td {
+  padding: 0 20px; /* Adjust the space between columns as needed */
+}
+.dat {
+  font-size: 10px;
+  text-align: center;
+}
+.hv {
+  display: flex;
+  flex-direction: row;
+  background-color: lightgray;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: 90px;
+  margin-right: 147px;
+  height: 40px;
+}
+.hl {
+  text-decoration: underline;
+}
+.hvv {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border: 1px solid black;
+  justify-content: space-between;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 40px;
+}
+.mrr {
+  margin-right: 30px;
+}
+.mrv {
+  margin-left: 50px;
+}

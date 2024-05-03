@@ -1,0 +1,25 @@
+.a {
+  background-color: gray;
+  height: 90px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+.w {
+  color: white;
+}
+.b {
+  height: 60px;
+  width: 150px;
+  margin-right: 10px;
+}
+.ac {
+  display: flex;
+  flex-direction: row;
+}
+.s {
+  height: 22px;
+  background-color: gray;
+  color: white;
+}
